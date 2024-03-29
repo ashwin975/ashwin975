@@ -46,7 +46,7 @@
   - I keep building projects, here are some:
     - Spotify API End to End Pipeline using Python and AWS
     - Formula1 data Analysis via Ergast API End to End Pipeline using Python on Azure
-    - Ingestion and Transformation using Databricks on Unity Catalog
+    - Ingestion, Transformation and Workflow deployment through Unity Catalog on Azure Databricks
     - Google Jobs Web scraping
 
 ### Certifications and Courses
