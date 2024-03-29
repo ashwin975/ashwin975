@@ -22,7 +22,8 @@
 - 🤘 Here are my Open Source contributions so far:
   - I keep building projects, here are some:
     - Spotify API End to End Pipeline using Python and AWS
-    - Formula 1 data using Ergast API End to End Pipeline using Python via Azure Databricks and Power BI
+    - Formula 1 data Analysis via Ergast API End to End Pipeline using Python on Azure
+    - Ingestion and Transformation using Databricks on Unity Catalog
     - Google Jobs Web scraping 
 
 ### Certifications and Courses
