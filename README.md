@@ -65,5 +65,5 @@
 ---
 
 ### Let's Connect!
-
-If you want to talk to me or discuss something, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ashwinsingaram579/)
+- 📫 You can reach me at ashwinsingaram579@gmail.com
+- If you want to talk to me or discuss something, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ashwinsingaram579/)
