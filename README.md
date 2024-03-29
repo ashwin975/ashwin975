@@ -1,8 +1,6 @@
-### Hi there, I'm Ashwin 👋
+## Hi there, I'm Ashwin 👋
 
 ### Thanks for stopping by. Here's a little bit about myself...
-
-# Hi there, I'm Darshil! 👋
 
 Thanks for stopping by. Here's a little bit about myself...
 
