@@ -2,8 +2,6 @@
 
 ## Thanks for stopping by. Here's a little bit about myself...
 
-Thanks for stopping by. Here's a little bit about myself...
-
 - 😄 My pronouns are: He/His/Him
 - 🔭 I’m currently working as a research assistant at SUNY - UB
 - 👯 I'm open for opportunities.
