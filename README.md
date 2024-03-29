@@ -1,5 +1,7 @@
-## Hi there, I'm Ashwin 👋 
-
+<h1>
+  hey there, i'm Ashwin
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ## Thanks for stopping by. Here's a little bit about myself...
 
@@ -46,12 +48,6 @@
     - Formula1 data Analysis via Ergast API End to End Pipeline using Python on Azure
     - Ingestion and Transformation using Databricks on Unity Catalog
     - Google Jobs Web scraping
-   
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwin975&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Certifications and Courses
 
@@ -61,6 +57,11 @@
   - Azure Certified Data Engineer Associate
   - Supervised Machine Learning by Andrew Ng
  
+---
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwin975&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ---
 
 ### Let's Connect!
