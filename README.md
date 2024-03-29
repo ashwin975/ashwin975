@@ -1,6 +1,6 @@
 ## Hi there, I'm Ashwin 👋
 
-### Thanks for stopping by. Here's a little bit about myself...
+## Thanks for stopping by. Here's a little bit about myself...
 
 Thanks for stopping by. Here's a little bit about myself...
 
@@ -14,12 +14,12 @@ Thanks for stopping by. Here's a little bit about myself...
   - GCP Cloud
   - How to architect better data systems.
 
-## Get in Touch
+### Get in Touch
 
 - 📫 Here's how you can reach me:
   - [LinkedIn](https://www.linkedin.com/in/ashwinsingaram579/)
 
-## Open Source Contributions
+### Open Source Contributions
 
 - 🤘 Here are my Open Source contributions so far:
   - I keep building projects, here are some:
@@ -27,7 +27,7 @@ Thanks for stopping by. Here's a little bit about myself...
     - Formula 1 data using Ergast API End to End Pipeline using Python via Azure Databricks and Power BI
     - Google Jobs Web scraping 
 
-## Certifications and Courses
+### Certifications and Courses
 
 - 🎓 My Certifications and Courses:
   - AWS Certified Cloud Practitioner
@@ -35,6 +35,6 @@ Thanks for stopping by. Here's a little bit about myself...
   - Azure Certified Data Engineer Associate
   - Supervised Machine Learning by Andrew Ng
 
-## Let's Connect!
+### Let's Connect!
 
 If you want to talk to me or discuss something, feel free to connect with me on LinkedIn
