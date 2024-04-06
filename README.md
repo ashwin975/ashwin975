@@ -14,9 +14,6 @@
   - Exploring Modern Data Stack (dbt, Airflow, Snowflake, Databricks)
   - GCP Cloud
   - How to architect better data systems.
-
-![](https://github.com/ashwin975/ashwin975/blob/main/popeye.giphy.gif)
-
   
 ### Languages and Tools:
 <div>
@@ -51,6 +48,8 @@
     - Formula1 data Analysis via Ergast API End to End Pipeline using Python on Azure
     - Ingestion, Transformation and Workflow deployment through Unity Catalog on Azure Databricks
     - Google Jobs Web scraping
+   
+  ![](https://github.com/ashwin975/ashwin975/blob/main/popeye.giphy.gif)
 
 ### Certifications and Courses
 
