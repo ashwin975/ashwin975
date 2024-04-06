@@ -14,6 +14,9 @@
   - Exploring Modern Data Stack (dbt, Airflow, Snowflake, Databricks)
   - GCP Cloud
   - How to architect better data systems.
+
+![](https://github.com/ashwin975/ashwin975/blob/main/popeye.giphy.gif)
+
   
 ### Languages and Tools:
 <div>
