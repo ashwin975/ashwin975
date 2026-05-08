@@ -6,8 +6,6 @@
 ## Thanks for stopping by. Here's a little bit about myself...
 
 - 😄 My pronouns are: He/His/Him
-- 🔭 I’m currently working as a research assistant at SUNY - UB
-  - 👯 I'm open for opportunities.
   - 💬 I'm looking to collaborate and create some cool content that we can share with the community.
   - 🤘 You can find various data Analytics/ Engineering projects on my profile.
 - 🧑🏻‍🏫 I am currently learning:
